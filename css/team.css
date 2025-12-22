@@ -1,0 +1,47 @@
+.team {
+
+background: #f4f4fd;
+padding-top: 120px;
+padding-bottom: 120px;
+}
+
+.team-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: #2e2f42;
+
+margin-bottom: 72px;
+}
+
+
+
+.team-list {
+display: flex;
+align-items: center;
+
+}
+
+
+
+.team-item{
+background-color: #fffff;
+border-radius: 0 0 4px 4px;
+box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
+0 1px 1px 0 rgba(46, 47, 66,0.16),
+0 1px 6px 0 rgba(46, 47, 66, 0.08);
+background: #fff ;
+width: calc((100% - 24px * 3) / 4);
+
+}
+
+
+
+.container-text{
+    padding: 32px 0;
+}
+
+
